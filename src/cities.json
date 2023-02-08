@@ -1,26 +1,30 @@
 [
     {
-        "city":"Barcelona"
+      "city": "Barcelona",
+      "id": 1
     },
     {
-        "city":"Milan"
+      "city": "Milan",
+      "id": 2
     },
     {
-        "city":"London"
+      "city": "London",
+      "id": 3
     },
     {
-        "city":"Paris"
+      "city": "Paris",
+      "id": 4
     },
     {
-        "city":"San Pedro Sula"
+      "city": "San Pedro Sula",
+      "id": 5
     },
     {
-        "city":"Madrid"
+      "city": "Madrid",
+      "id": 6
     },
     {
-        "city":"Oslo"
-    },
-    {
-        "city":"Current position"
+      "city": "Oslo",
+      "id": 7
     }
-]
+  ]
